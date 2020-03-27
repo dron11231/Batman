@@ -2,7 +2,7 @@ body {
     background-color: #0A090A;
     color: white; 
     font-family: 'Roboto', sans-serif;
-    background-image: url(../img/main-bg.png) ;
+    background-image: url(img/main-bg.png) ;
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100%;
@@ -121,7 +121,7 @@ header {
       content: "";
       width: 30px;
       height: 30px;
-      background-image: url(../img/play.svg);
+      background-image: url(img/play.svg);
       background-repeat: no-repeat;
       background-size: 100%;
       margin-right: 15px;
@@ -148,7 +148,7 @@ header {
       content: "";
       width: 30px;
       height: 30px;
-      background-image: url(../img/play.svg);
+      background-image: url(img/play.svg);
       margin-left: 15px;
       background-size: 100%;
       transform: rotate(90deg);
